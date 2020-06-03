@@ -1,36 +1,36 @@
 [submodule "detection/dalal_cvpr05"]
 	path = detection/dalal_cvpr05
-	url = git@github.com:bobetocalo/dalal_cvpr05.git
+	url = https://github.com/bobetocalo/dalal_cvpr05.git
 [submodule "detection/liu_eccv16"]
 	path = detection/liu_eccv16
-	url = git@github.com:bobetocalo/liu_eccv16.git
+	url = https://github.com/bobetocalo/liu_eccv16.git
 [submodule "headpose/bobetocalo_amdo16"]
 	path = headpose/bobetocalo_amdo16
-	url = git@github.com:bobetocalo/bobetocalo_amdo16.git
+	url = https://github.com/bobetocalo/bobetocalo_amdo16.git
 [submodule "headpose/bobetocalo_ciarp17"]
 	path = headpose/bobetocalo_ciarp17
-	url = git@github.com:bobetocalo/bobetocalo_ciarp17.git
+	url = https://github.com/bobetocalo/bobetocalo_ciarp17.git
 [submodule "alignment/dantone_cvpr12"]
 	path = alignment/dantone_cvpr12
-	url = git@github.com:bobetocalo/dantone_cvpr12.git
+	url = https://github.com/bobetocalo/dantone_cvpr12.git
 [submodule "alignment/kazemi_cvpr14"]
 	path = alignment/kazemi_cvpr14
-	url = git@github.com:bobetocalo/kazemi_cvpr14.git
+	url = https://github.com/bobetocalo/kazemi_cvpr14.git
 [submodule "alignment/cascade"]
 	path = alignment/cascade
-	url = git@github.com:bobetocalo/cascade.git
+	url = https://github.com/bobetocalo/cascade.git
 [submodule "multitask/bobetocalo_multitask"]
 	path = multitask/bobetocalo_multitask
-	url = git@github.com:bobetocalo/bobetocalo_multitask.git
+	url = https://github.com/bobetocalo/bobetocalo_multitask.git
 [submodule "alignment/bobetocalo_ciarp18"]
 	path = alignment/bobetocalo_ciarp18
-	url = git@github.com:bobetocalo/bobetocalo_ciarp18.git
+	url = https://github.com/bobetocalo/bobetocalo_ciarp18.git
 [submodule "alignment/bobetocalo_eccv18"]
 	path = alignment/bobetocalo_eccv18
-	url = git@github.com:bobetocalo/bobetocalo_eccv18.git
+	url = https://github.com/bobetocalo/bobetocalo_eccv18.git
 [submodule "alignment/ert_simple"]
 	path = alignment/ert_simple
-	url = git@github.com:bobetocalo/ert_simple.git
+	url = https://github.com/bobetocalo/ert_simple.git
 [submodule "alignment/bobetocalo_prl19"]
 	path = alignment/bobetocalo_prl19
-	url = git@github.com:bobetocalo/bobetocalo_prl19.git
+	url = https://github.com/bobetocalo/bobetocalo_prl19.git
